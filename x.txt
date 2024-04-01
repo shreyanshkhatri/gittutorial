@@ -1,6 +1,3 @@
 lets learn about git pull and fetch
 
-lets change the game
-lets begin the game
-lets begin the game
-lets do it
+lets start the game
